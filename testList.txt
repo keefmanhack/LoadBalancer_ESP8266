@@ -1,0 +1,5 @@
+-(check) Receive a request
+-(check) Configure server characteristics (ip_address, serverWeight)
+-(check)build queue data-type
+-store requests in a queue
+-dispatch request to server with the least connetions
